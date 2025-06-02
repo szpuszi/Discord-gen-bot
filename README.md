@@ -103,6 +103,10 @@ pip install discord.py
 
 Feel free to submit issues and enhancement requests!
 
+## Credits
+
+Created by [szpuszi](https://github.com/szpuszi)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
